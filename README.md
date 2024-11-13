@@ -7,7 +7,7 @@ You will need to install [Julia](https://julialang.org/) and the [IJulia](https:
 
 You also need Jupyter to open the notebook, but you can also use VSCode instead.
 
-The Mathematica notebook is used for plotting.
+The other notebook, `data_and_plots.ipynb` is used for gathering and plotting the generated data.
 
 **Author**: Archisman Panigrahi, Dept. of Physics, Massachusetts Institute of Technology, archi137@mit.edu
 
