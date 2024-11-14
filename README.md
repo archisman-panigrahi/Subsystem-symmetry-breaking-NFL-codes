@@ -11,4 +11,4 @@ The other notebook, `data_and_plots.ipynb` is used for gathering and plotting th
 
 **Author**: Archisman Panigrahi, Dept. of Physics, Massachusetts Institute of Technology, archi137@mit.edu
 
-**Research Article**: *Non-Fermi liquids from subsystem symmetry breaking in van der Waals multilayers*, Archisman Panigrahi and Ajesh Kumar, 2024.
+**Research Article**: *Non-Fermi liquids from subsystem symmetry breaking in van der Waals multilayers*, Archisman Panigrahi and Ajesh Kumar, [arxiv:2411.08091](https://arxiv.org/pdf/2411.08091), 2024.
