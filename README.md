@@ -2,7 +2,7 @@ This repository contains programs to calculate self-consistent mean-field soluti
 
 **Author**: Archisman Panigrahi, Dept. of Physics, Massachusetts Institute of Technology, archi137@mit.edu
 
-**Research Article**: *Non-Fermi liquids from subsystem symmetry breaking in van der Waals multilayers*, Archisman Panigrahi and Ajesh Kumar, [Phys. Rev. Lett. 134, 236502](https://doi.org/10.1103/v6r7-4ph9), [arxiv:2411.08091](https://arxiv.org/pdf/2411.08091), 2024.
+**Research Article**: *Non-Fermi liquids from subsystem symmetry breaking in van der Waals multilayers*, Archisman Panigrahi and Ajesh Kumar, [Phys. Rev. Lett. 134, 236502](https://doi.org/10.1103/v6r7-4ph9) (2025), [arxiv:2411.08091](https://arxiv.org/pdf/2411.08091).
 
 
 How to run?
